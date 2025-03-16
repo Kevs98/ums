@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RhYsnGfzGKX94plUE7PqOyWVJijgkoYeJDBpOYfXLJw=",
+  "Source": "UMS.Api",
+  "BasePath": "_content/UMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

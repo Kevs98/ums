@@ -1,0 +1,5 @@
+@if (control.errors && (control.dirty || (control.touched && control.pristine) || formDirective.submitted)) {
+    <small class="p-error helper-text">
+      {{ errorMessages | errorFieldValidation: control.errors }}
+    </small>
+  }

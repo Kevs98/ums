@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.api\\middleguare\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|solutionrelative:ums.api\\middleguare\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|solutionrelative:ums.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|solutionrelative:ums.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|solutionrelative:ums.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|solutionrelative:ums.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.infrastructure\\services\\totpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|solutionrelative:ums.infrastructure\\services\\totpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.application\\common\\interfaces\\itotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|solutionrelative:ums.application\\common\\interfaces\\itotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.application\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC99D6E-F8E0-4779-A823-0943BF95DB25}|UMS.Application\\UMS.Application.csproj|solutionrelative:ums.application\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F25A91C-9EAB-4254-9492-ED3110A2A344}|UMS.Api\\UMS.Api.csproj|solutionrelative:ums.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779EA74-77C5-428A-953A-67FC014B7535}|UMS.Core\\UMS.Core.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779EA74-77C5-428A-953A-67FC014B7535}|UMS.Core\\UMS.Core.csproj|solutionrelative:ums.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.infrastructure\\persistence\\umsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|solutionrelative:ums.infrastructure\\persistence\\umsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779EA74-77C5-428A-953A-67FC014B7535}|UMS.Core\\UMS.Core.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.core\\ums.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E779EA74-77C5-428A-953A-67FC014B7535}|UMS.Core\\UMS.Core.csproj|solutionrelative:ums.core\\ums.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|c:\\users\\kevin.estrada\\documents\\proyects\\ums\\ums.infrastructure\\ums.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27B57420-ECF1-4874-A60A-E70DBB39BA26}|UMS.Infrastructure\\UMS.Infrastructure.csproj|solutionrelative:ums.infrastructure\\ums.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UMS.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "UMS.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:33:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotpService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\Services\\TotpService.cs",
+              "RelativeDocumentMoniker": "UMS.Infrastructure\\Services\\TotpService.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\Services\\TotpService.cs",
+              "RelativeToolTip": "UMS.Infrastructure\\Services\\TotpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:24:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITotpService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Common\\Interfaces\\ITotpService.cs",
+              "RelativeDocumentMoniker": "UMS.Application\\Common\\Interfaces\\ITotpService.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Common\\Interfaces\\ITotpService.cs",
+              "RelativeToolTip": "UMS.Application\\Common\\Interfaces\\ITotpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:23:09.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Middleguare\\ResponseMiddleware.cs",
+              "RelativeDocumentMoniker": "UMS.Api\\Middleguare\\ResponseMiddleware.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Middleguare\\ResponseMiddleware.cs",
+              "RelativeToolTip": "UMS.Api\\Middleguare\\ResponseMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:05:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UMS.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UMS.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:20:55.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "UMS.Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "UMS.Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:06:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "UMS.Application\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Application\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "UMS.Application\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:05:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "UMS.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\Program.cs",
+              "RelativeToolTip": "UMS.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:31:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UMS.Core",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Core\\UMS.Core.csproj",
+              "RelativeDocumentMoniker": "UMS.Core\\UMS.Core.csproj",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Core\\UMS.Core.csproj",
+              "RelativeToolTip": "UMS.Core\\UMS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T19:23:10.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UMS.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UMS.Infrastructure\\UMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
+              "RelativeToolTip": "UMS.Infrastructure\\UMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T19:23:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UMS.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Core\\Entities\\User.cs",
+              "RelativeToolTip": "UMS.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:56:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "UMS.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Api\\appsettings.json",
+              "RelativeToolTip": "UMS.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T18:55:32.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\Persistence\\UmsDbContext.cs",
+              "RelativeDocumentMoniker": "UMS.Infrastructure\\Persistence\\UmsDbContext.cs",
+              "ToolTip": "C:\\Users\\kevin.estrada\\Documents\\Proyects\\ums\\UMS.Infrastructure\\Persistence\\UmsDbContext.cs",
+              "RelativeToolTip": "UMS.Infrastructure\\Persistence\\UmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:53:18.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
