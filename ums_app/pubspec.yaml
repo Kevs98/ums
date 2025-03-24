@@ -13,7 +13,9 @@ dependencies:
   equatable: ^2.0.0
   http: ^0.13.3
   shared_preferences: ^2.0.6
-  flutter_splash_screen: ^1.0.0
+  flutter_native_splash: ^2.2.19
+  otp_text_field_v2: ^1.0.0
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +24,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+
+flutter_native_splash:
+  color: "#42a5f5"

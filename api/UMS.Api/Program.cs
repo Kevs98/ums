@@ -11,6 +11,10 @@ using UMS.Infrastructure.Repositories;
 using UMS.Infrastructure.Services;
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.ConfigureKestrel(serverOptions => {
+    serverOptions.ListenAnyIP(5039);
+});
+
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 //builder.Services.AddOpenApi();

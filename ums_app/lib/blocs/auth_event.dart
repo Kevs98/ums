@@ -16,3 +16,16 @@ class LoginEvent extends AuthEvent {
   @override
   List<Object> get props => [username, password];
 }
+
+class CheckAuthStatusEvent extends AuthEvent {}
+
+class ValidateOtpEvent extends AuthEvent {
+  final String otp;
+  final String otpSecret;
+  final String username;
+
+  const ValidateOtpEvent({required this.otp, required this.otpSecret, required this.username});
+
+  @override
+  List<Object> get props => [otp, otpSecret];
+}

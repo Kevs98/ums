@@ -12,12 +12,12 @@ class AuthInitial extends AuthState {}
 class AuthLoading extends AuthState {}
 
 class AuthSuccess extends AuthState {
-  final User user;
+  final User loginResponse;
 
-  const AuthSuccess(this.user);
+  const AuthSuccess(this.loginResponse);
 
   @override
-  List<Object> get props => [user];
+  List<Object> get props => [loginResponse];
 }
 
 class AuthFailure extends AuthState {
@@ -27,4 +27,13 @@ class AuthFailure extends AuthState {
 
   @override
   List<Object> get props => [error];
+}
+
+class OtpValidated extends AuthState {
+  final String token;
+
+  const OtpValidated(this.token);
+
+  @override
+  List<Object> get props => [token];
 }
